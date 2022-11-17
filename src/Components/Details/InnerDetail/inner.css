@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+.innerBody{
+    margin: auto;
+    width: 800px;
+    background-color: cadetblue;
+    text-align: center;
+    margin-top: 100px;
+    padding: 60px;
+    border-radius: 5px;
+    box-shadow: 3px 7px 41px -7px rgb(0 0 0);
+
+}
